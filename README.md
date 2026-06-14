@@ -100,3 +100,7 @@ Rupesh Kumar
 
 Aspiring Java Full Stack Developer
 
+
+<img width="791" height="475" alt="Screenshot 2026-04-08 at 12 07 12 AM" src="https://github.com/user-attachments/assets/0c2452c0-48d4-4c3d-9c30-86c4c8735bbd" />
+
+
