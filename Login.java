@@ -98,7 +98,7 @@ public class Login extends JFrame implements ActionListener{
                 }
             } catch (Exception e) {
                 System.out.println(e);
-            }
+}
         }else if (ae.getSource() == signup) {
             setVisible(false);
             new SignupOne().setVisible(true);
